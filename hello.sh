@@ -49,7 +49,7 @@ typewriter "System Date: $CURRENT_DATE"
 typewriter "System Time: $CURRENT_TIME"
 echo
 sleep 0.5
-typewriter ">>> Hello, world. We're in. <<<"
+typewriter ">>> Hello people. I'm in!! <<<"
 echo
 sleep 1
 
